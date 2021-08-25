@@ -1,4 +1,3 @@
 # ReminderApp
 
-Programmed using Visual Basic. My first ever project.
-Source code lost when transferring devices. :(
+My first ever project, programmed using Visual Basic in the Visual Studio IDE. Source code lost when transferring devices. :(
